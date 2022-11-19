@@ -3,6 +3,7 @@ The legendary donut program, but in python.
 
 ![Image](https://user-images.githubusercontent.com/63736686/202868275-eb549af1-5172-44b9-a531-23ba8491c2d1.png)
 ![Image](https://user-images.githubusercontent.com/63736686/202868288-663f04ce-9a4f-44eb-97e9-7bc3782a49b9.png)
+
 *The C Donut (left), vs the Python Donut (right)*
 
 Inspired by Andy Sloane's C Donut: [How it works][tutorial]
