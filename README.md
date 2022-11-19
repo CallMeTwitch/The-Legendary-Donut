@@ -1,8 +1,8 @@
 # The-Legendary-Donut
 The legendary donut program, but in python
 
-![image](https://user-images.githubusercontent.com/63736686/202868223-a64cf1ca-aed8-4ee7-b461-f73dd8d85470.png)
-![image](https://user-images.githubusercontent.com/63736686/202868237-bcd26027-d901-4933-8949-72ba6f2e93f4.png)
+![image](https://user-images.githubusercontent.com/63736686/202868275-eb549af1-5172-44b9-a531-23ba8491c2d1.png)
+![image](https://user-images.githubusercontent.com/63736686/202868288-663f04ce-9a4f-44eb-97e9-7bc3782a49b9.png)
 
 Inspired by Andy Sloane's C Donut: [How it works][tutorial]
 
