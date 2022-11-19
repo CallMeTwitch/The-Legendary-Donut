@@ -2,8 +2,7 @@
 The legendary donut program, but in python.
 
 <p class="cssclass1 cssclass2">
-  <img src="[/assets/img/logo.jpg](https://user-images.githubusercontent.com/63736686/202868275-eb549af1-5172-44b9-a531-23ba8491c2d1.png)" alt="Logo" title="The C Donut">
-  <em>logo_caption</em>
+  <img src="[/assets/img/logo.jpg](https://user-images.githubusercontent.com/63736686/202868275-eb549af1-5172-44b9-a531-23ba8491c2d1.png)" title="The C Donut">
 </p>
 
 <!--
